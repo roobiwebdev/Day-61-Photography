@@ -12,8 +12,6 @@ Let's keep pushing forward ⚡️
 
 [Live Link](https://roobiwebdev.github.io/Day-61-Photography/)
 
-
 ![image](https://github.com/user-attachments/assets/a6ab4cdc-87ad-4b6e-b2a5-7ea9ff7100f3)
-
 
 #100daysofcode #coding #project
